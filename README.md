@@ -122,7 +122,7 @@ package:
     the build system that GoogleTest is using internally and tests against.
     CMake is community-supported.
 
-*   A C++11-standard-compliant compiler
+*   A C++11-standard-compliant compiler.
 
 ## Contributing change
 
